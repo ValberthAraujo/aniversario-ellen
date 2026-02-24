@@ -1,0 +1,23 @@
+{
+  "greeting": "Oi",
+  "name": "Ellen",
+  "greetingText": "Eu realmente gosto do seu sorriso, e espero que ele continue brilhando! :)",
+  "wishText": "Espero que você tenha um ótimo dia! ;)",
+  "imagePath": "img/ellen.png",
+  "text1": "É seu aniversário!!! :D",
+  "textInChatBox": "Hoje é um dia especial, celebramos mais um ano de vida, Bla Bla...",
+  "sendButtonLabel": "Enviar",
+  "text2": "Era o que eu iria fazer",
+  "text3": "mas eu parei.",
+  "text4": "Eu pensei, quero fazer algo melhor",
+  "text4Adjective": "especial",
+  "text5Entry": "Por que,",
+  "text5Content": "Você é especial!",
+  "smiley": ":)",
+  "bigTextPart1": "..",
+  "bigTextPart2": ".",
+  "wishHeading": "Feliz Aniversário!",
+  "outroText": "Agora aproveita seu dia amor! <3",
+  "replayText": "Te amo muito <3",
+  "outroSmiley": ":)"
+}
